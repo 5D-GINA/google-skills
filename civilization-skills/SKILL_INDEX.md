@@ -11,6 +11,7 @@ Status: `V1_FRAMEWORK_DRAFT`
 | `governance/COST_GATE_V1.md` | 成本與時間失控前的停止閘門 |
 | `governance/EVIDENCE_REQUIREMENT_V1.md` | 事實、推論、假設、未知的標示規則 |
 | `governance/REPOSITORY_HYGIENE_V1.md` | 避免 Skill 資料夾重複與 Git 倉庫膨脹 |
+| `governance/AGENT_TRIGGER_HYGIENE_V1.md` | 避免 Agent 名稱錯置、Issue 錯位造成觸發誤判 |
 
 ## Skills（技能）
 
